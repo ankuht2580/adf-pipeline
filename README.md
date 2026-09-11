@@ -4,7 +4,7 @@ Welcome to the Basic ADF Activity Repository! This repository is designed to pro
 
 📂 **Repository Contents**
 
-🔄 **Data Movement Activities:** Templates and examples for Copy Data, Data Flow, and more.
+🔄 **Data Movement Activities: ** Templates and examples for Copy Data, Data Flow, and more.
 
 **🛠️ Data Transformation Activities:** Samples including Lookup, Filter, and Conditional Split.
 
